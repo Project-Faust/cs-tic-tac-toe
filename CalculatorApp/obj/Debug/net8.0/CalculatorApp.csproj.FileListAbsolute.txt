@@ -1,0 +1,15 @@
+/workspaces/cs-tic-tac-toe/CalculatorApp/obj/Debug/net8.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cs-tic-tac-toe/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfoInputs.cache
+/workspaces/cs-tic-tac-toe/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfo.cs
+/workspaces/cs-tic-tac-toe/CalculatorApp/obj/Debug/net8.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/workspaces/cs-tic-tac-toe/CalculatorApp/obj/Debug/net8.0/CalculatorApp.sourcelink.json
+/workspaces/cs-tic-tac-toe/CalculatorApp/bin/Debug/net8.0/CalculatorApp
+/workspaces/cs-tic-tac-toe/CalculatorApp/bin/Debug/net8.0/CalculatorApp.deps.json
+/workspaces/cs-tic-tac-toe/CalculatorApp/bin/Debug/net8.0/CalculatorApp.runtimeconfig.json
+/workspaces/cs-tic-tac-toe/CalculatorApp/bin/Debug/net8.0/CalculatorApp.dll
+/workspaces/cs-tic-tac-toe/CalculatorApp/bin/Debug/net8.0/CalculatorApp.pdb
+/workspaces/cs-tic-tac-toe/CalculatorApp/obj/Debug/net8.0/CalculatorApp.dll
+/workspaces/cs-tic-tac-toe/CalculatorApp/obj/Debug/net8.0/refint/CalculatorApp.dll
+/workspaces/cs-tic-tac-toe/CalculatorApp/obj/Debug/net8.0/CalculatorApp.pdb
+/workspaces/cs-tic-tac-toe/CalculatorApp/obj/Debug/net8.0/CalculatorApp.genruntimeconfig.cache
+/workspaces/cs-tic-tac-toe/CalculatorApp/obj/Debug/net8.0/ref/CalculatorApp.dll
